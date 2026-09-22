@@ -2,7 +2,7 @@
 
 Aspiring AI/ML Engineer | Co-Founder, DevRA | B.Tech CSE (AI & ML), VIT Bhopal
 
-📄 **[Download Resume (PDF)](./Rishi_Raj_Resume.pdf)**
+📄 **[Download Resume (PDF)](./Rishi_Raj_Resume_0.pdf)**
 
 Applying for: **AI Forward Deployed Engineer Intern @ MASAL.ai**
 
